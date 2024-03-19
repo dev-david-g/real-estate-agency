@@ -1,0 +1,6 @@
+{
+    "house-list": [
+        {"id": 1, "address": "Cluj-Napoca, Bld. Manastur, Nr. 150"},
+        {"id": 2, "address": "Cluj-Napoca, Str. Praga Nr. 200" }
+    ]
+}
