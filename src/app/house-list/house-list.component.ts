@@ -1,10 +1,11 @@
 import { HttpClient } from '@angular/common/http';
 import { Component, OnInit, inject } from '@angular/core';
+import {MatTableModul} from '@angular/material';
 
 @Component({
   selector: 'app-house-list',
   standalone: true,
-  imports: [],
+  imports: [MatTableModule],
   templateUrl: './house-list.component.html',
   styleUrl: './house-list.component.scss'
 })
